@@ -13,9 +13,10 @@ Clone this file
 ### How to run
 ```
 cd crud-vue
+json-server db.json (in terminal or cmd no 1) //ini untuk menyiapkan data
 ```
 
 ```
-json-server db.json (in terminal or cmd no 1)
-npm run serve (in terminal or cmd no 2)
+cd crud-vue
+npm run serve (in terminal or cmd no 2) //menampilkan aplikasi
 ```
