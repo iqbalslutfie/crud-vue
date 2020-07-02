@@ -1,31 +1,21 @@
 # DEMO TES VUE
 
-## Project setup
+## Setup
 ```
-npm install
+Install Node JS
+Install npm
 ```
-
-### Compiles and hot-reloads for development
+### How to use
 ```
-npm run serve
+Clone this file
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-#crud-vue
 
 ### How to run
 ```
 cd crud-vue
+```
+
+```
 json-server db.json (in terminal or cmd no 1)
 npm run serve (in terminal or cmd no 2)
+```
