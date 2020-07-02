@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jhon Doe"
+    },
+    {
+      "id": 2,
+      "name": "Asep Husen"
+    },
+    {
+      "name": "Bambang Asep Nurahman",
+      "id": 3
+    }
+  ]
+}
